@@ -1,0 +1,15 @@
+{
+	"description": "My resume width Wechat",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"appid": "wx748924052f7a04a4",
+	"projectname": "my-resume",
+	"miniprogramRoot": "./dist",
+	"condition": {}
+}
